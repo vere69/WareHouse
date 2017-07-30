@@ -1,0 +1,22 @@
+h3{
+  text-align: center;
+}
+#title{
+  margin:50px;
+}
+.panel-heading{
+  text-align: center;
+  height: 75px;
+}
+.panel-title{
+  margin-top: 15px;
+}
+a{
+  font-size: 1.3em
+}
+#accordion1 h4{
+  color: green;
+}
+#accordion2 h4{
+  color: red;
+}
