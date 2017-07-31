@@ -1,3 +1,9 @@
+h6 {
+  background-color:rgb(0,0,153);
+}
+a {
+  color:rgb(0,0,153);
+}
 .navbar-fixed-left {
   width: 140px;
   position: fixed;
@@ -18,4 +24,3 @@
 .navbar-fixed-left .navbar-nav > li > .dropdown-menu {
   margin-top: -50px;
   margin-left: 140px;
-}
